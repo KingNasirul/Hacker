@@ -27,7 +27,7 @@
 
 ðŸ˜ˆ `cd Hacker`
 
-ðŸ‘¾ `python2 Hacker.py`
+ðŸ‘¾ `python2 hacker.py`
 
 
 ### <<< If you copy , Then Give me The Credits >>>
