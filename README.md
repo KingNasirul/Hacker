@@ -1,5 +1,5 @@
 <p align="center">
-<a href="#"><img title="BD Hacker Boys " src="https://img.shields.io/badge/BD%20-Af2-green?colorA=%232EA44F&colorB=%23000000&style=for-the-badge"></a>
+<a href="#"><img title="BD Hacker Boys " src="https://img.shields.io/badge/BD%20-Hacker Boys-green?colorA=%232EA44F&colorB=%23000000&style=for-the-badge"></a>
 </p>
 
 <p align="center">
